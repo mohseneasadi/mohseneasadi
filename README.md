@@ -7,9 +7,7 @@
 <a href="https://https://www.linkedin.com/in/mohsene-asadi//">
 <img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://https://mohsene.asadi@yahoo.com//">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Yahoo.svg" />
-</a>
+[<img align="left" alt="developerhumayun | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mohsene.asadi68@gmail.com)
 
 
 <br />
@@ -28,7 +26,7 @@ Hi,I'm Mohseneh Asadi🙌, a Business Analyst and Aspiring Data Scientist who pa
 **Languages and Tools:**
 
 
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" 
