@@ -18,8 +18,9 @@ It's Mohseneh!
 
 <br />
 
-Hi,I'm Mohseneh Asadi🙌, a Business Analyst and Aspiring Data Scientist who passionate about learning how data shapes our world. 
-I enjoy working on analyzing the data of real-world challenges.✌
+Hi, I'm Mohseneh🙌, a Business Analyst and Aspiring Data Scientist who passionate about learning how data shapes our world. 
+This repository is going to represent my skills and share my projects and 
+there is a way to track my progress in Data Science and Data Analytics-related topics.✌
 
 
 **Introduction:**
