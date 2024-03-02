@@ -6,11 +6,11 @@ It's [Mohseneh!](https://mohseneasadi.github.com/)
 <br/>
 
 </a>
-<a href="https://https://www.linkedin.com/in/mohsene-asadi//">
+<a href="https://www.linkedin.com/in/mohsene-asadi//">
 <img align="left" alt="Mohseneh Asadi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://https://mohsene.asadi68@gmail.com//">
+<a href="https://mohsene.asadi68@gmail.com//">
 <img align="left" alt="Mohseneh Asadi | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple icons@v3/icons/gmail.svg" />
 </a>
 
