@@ -18,13 +18,14 @@ It's Mohseneh!
 
 <br />
 
-Hi,I'm Mohseneh Asadi🙌, a Business Analyst and Aspiring Data Scientist who passionate about learning how data shapes our world. I enjoy working on analyzing the data of real-world challenges.✌
+Hi,I'm Mohseneh Asadi🙌, a Business Analyst and Aspiring Data Scientist who passionate about learning how data shapes our world. 
+I enjoy working on analyzing the data of real-world challenges.✌
 
 
-**Talking about Personal Stuffs:**
+**Introduction:**
 
 - 🌱 I'm currently taking the Data Science Bootcamp at HyperionDev.
-- 💬 Ask me about anything , Would love to answer them.
+- 💬 Ask me about anything, Would be glad to help.
 - 📫 How to reach me: Linkedin - Gmail
 - 😄 Pronouns: She/her
 
