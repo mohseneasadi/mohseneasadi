@@ -11,7 +11,7 @@ It's [Mohseneh!](https://mohseneasadi.github.com/)
 </a>
 
 <a href="https://mohsene.asadi68@gmail.com//">
-<img align="left" alt="Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple icons@v3/icons/gmail.svg" />
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple icons@v3/icons/gmail.svg" />
 </a>
 
 
