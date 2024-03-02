@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-It's [Mohseneh!]
+It's Mohseneh!
 
 
 <br/>
