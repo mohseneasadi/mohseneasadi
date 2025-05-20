@@ -18,13 +18,13 @@ It's Mohseneh!
 
 <br />
 
-Hi, I'm Mohseneh🙌, a Business Analyst and Aspiring Data Scientist who is passionate about learning how data shapes our world. 
-This repository is going to represent my skills and share my projects and is a way to track my progress in Data Science and Data Analytics-related topics.✌
+Hi, I'm Mohseneh🙌, a Data Scientist and AI specialist who is passionate about learning how data shapes our world. 
+This repository is going to represent my skills and share my projects and is a way to track my progress in Data Science and AI-related topics.✌
 
 
 **Introduction:**
 
-- 🌱 I'm currently taking the Data Science Bootcamp at HyperionDev.
+- 🌱 I'm currently taking the Data Science and AI MSc Course at the University of Liverpool.
 - 💬 Ask me about anything, Would be glad to help.
 - 📫 How to reach me: Linkedin - Gmail
 - 😄 Pronouns: She/her
